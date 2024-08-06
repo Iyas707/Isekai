@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 	 <head>
-			<title>✰𝙄𝙎𝙀𝙆𝘼𝙄-𝘼𝙐𝙏𝙊𝘽𝙊𝙏</title>
+			<title>✰IYAS-𝘼𝙐𝙏𝙊𝘽𝙊𝙏</title>
 			<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
 			<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 			<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap">
@@ -10,7 +10,7 @@
 	 </head>
 	 <body>
 			<nav class="navbar navbar-expand-lg navbar-light bg-light">
-				 <a class="navbar-brand" href="#">𝙄𝙎𝙀𝙆𝘼𝙄 [🔴]𝘼𝙐𝙏𝙊-𝗕𝗢𝗧◆</a>
+				 <a class="navbar-brand" href="#">IYAS [🔴]𝘼𝙐𝙏𝙊-𝗕𝗢𝗧◆</a>
 				 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
 				 <span class="navbar-toggler-icon"></span>
 				 </button>
@@ -29,7 +29,7 @@
 							    </div>
                </li>
                <li class="nav-item">
-                  <a class="nav-link" href="online_user"> 𝗔𝗖𝗧𝗜𝗩𝗘 [✅]</a>
+                  <a class="nav-link" href="online_user"> 𝗔𝗖𝗧𝗜𝗩𝗘 [🧐]</a>
                </li>
               <li class="nav-item">
                   
@@ -62,7 +62,7 @@
 			<div class="container">
 			    <h1 class="col text-center" style="font-size: 20px; padding: 10px;">𝙇𝙀𝙎 𝙄𝙉𝙁𝙊𝙍𝙈𝘼𝙏𝙄𝙊𝙉 𝘿𝙐 𝘾𝙍𝙀́𝘼𝙏𝙀𝙐𝙍 𝘿𝙐 𝙎𝙄𝙏𝙀 𝙄𝙎𝙀𝙆𝘼𝙄 𝘼𝙐𝙏𝙊-𝘽𝙊𝙏[💬]</h1>        
 <a href="https://www.facebook.com/merdi.madimba.39" target="_blank">
-   <button type="button">𝙈𝙀𝙍𝘿𝙄 [🔵]</button>
+   <button type="button"> https://www.facebook.com/profile.php?id=100094708460091[🔵]</button>
 </a>
 
 				  <div class="container" id="listOfCommands">
@@ -84,7 +84,7 @@
 				 <label style="font-size: 14px; display: flex; align-items: center; padding: 22px;">
 				 <input type="checkbox" id="agreeCheckbox" style="color: #FFF; margin-right: 10px;"> Checking this box certifies that I have read, understood, and agreed to the Terms and Conditions. </label>
 				 <div class="col text-center">
-						<button class="btn btn-primary" onclick="State()" disabled id="submitButton" style="width: 100%"> ‹𝗦𝗨𝗕𝗠𝗜𝗧› </button>
+						<button class="btn btn-primary" onclick="State()" disabled id="submitButton" style="width: 100%"> ‹Comfirme› </button>
 				 </div>
 			</div>
 			<div id="result" class="container text-center" style="display: none;"></div>
